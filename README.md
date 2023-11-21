@@ -34,6 +34,7 @@
 - ``Spring Boot``
 - ``MySQL``
 - ``InteliJ IDEA``
+- ``Insomnia``
 - ``Paradigma de orientação a objetos``
 
 

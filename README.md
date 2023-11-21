@@ -4,16 +4,6 @@
 
 # Projeto Lista de Games
 
-<br>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;  
-  <a href="#-gif">Gif</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<br>
-
 
 # Índice 
 
@@ -27,7 +17,7 @@
   - [Técnicas e tecnologias utilizadas](#técnicas-e-tecnologias-utilizadas-1)
   - [Imagens](#imagens)
   - [Desenvolvedores](#desenvolvedores)
-  - [👍 Me siga nas redes sociais](#-me-siga-nas-redes-sociais)
+  - [Redes sociais](#redes-sociais)
     - [Feito com 💜 by Thamyres Cavalcante.](#feito-com--by-thamyres-cavalcante)
 
 ## Descrição do projeto 
@@ -55,17 +45,18 @@
 
 
 ## Acesso ao projeto
+<p align="justify">
 
-É possível acessar o projeto através do [Link](https://github.com/Thamyresmya/DS_List)
-
+É possível acessar o projeto através do [Link](https://github.com/Thamyresmya/DS_List).
 Neste repositório você tem acesso a todo o material produzido no curso.
 
+<p>
 
 ## Funcionalidades do projeto
 <p align="justify">
 
-- `Cadastro de Games`: Nosso sistema precisa estar apto a cadastrar os games que os usuarios gostam. Para cadastrar um game, devem ser informados seu titulo, ano, genero, plataforma, nota, Url da imagem, pequena descrição do game e uma descrição longa. Todos os campos são obrigatórios. O sistema também deve gravar a data em que o autor fez cadastrado no sistema.
-  
+  `Cadastro de Games`: Nosso sistema precisa estar apto a cadastrar os games que os usuarios gostam. Para cadastrar um game, devem ser informados seu titulo, ano, genero, plataforma, nota, Url da imagem, pequena descrição do game e uma descrição longa. Todos os campos são obrigatórios. O sistema também deve gravar a data em que o autor fez cadastrado no sistema.
+
 <p>
 
 ## Técnicas e tecnologias utilizadas
@@ -90,7 +81,7 @@ Listar todos os Games
 [<img src="https://github.com/Thamyresmya.png" width=115><br><sub>Thamyres Cavalcante</sub>](https://github.com/Thamyresmya)  
 
 
-## 👍 Me siga nas redes sociais
+## Redes sociais
 
 - [Linkedin](https://www.linkedin.com/in/thamyrescavalcante/)
 - [Instagran](https://www.instagram.com/thamyres__cavalcante/)
@@ -98,6 +89,8 @@ Listar todos os Games
 <br>
 
 ---
+
+
 
 ### Feito com 💜 by Thamyres Cavalcante.
 
